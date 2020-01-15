@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/binarySearchTrees/Tree.cpp
+Tree.h
+C:/Users/Samik Biswas/CLionProjects/binarySearchTrees/Tree.h
+stack
+-
+
+C:/Users/Samik Biswas/CLionProjects/binarySearchTrees/Tree.h
+vector
+-
+iostream
+-
+

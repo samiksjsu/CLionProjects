@@ -1,0 +1,3 @@
+C:/Users/samik/CLionProjects/CPPPractice/cmake-build-debug/CMakeFiles/CPPPractice.dir
+C:/Users/samik/CLionProjects/CPPPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/samik/CLionProjects/CPPPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

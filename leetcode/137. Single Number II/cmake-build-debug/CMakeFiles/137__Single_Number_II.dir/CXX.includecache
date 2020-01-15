@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/137. Single Number II/main.cpp
+iostream
+-
+vector
+-
+singleNumber.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/137. Single Number II/singleNumber.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/137. Single Number II/singleNumber.h
+vector
+-
+

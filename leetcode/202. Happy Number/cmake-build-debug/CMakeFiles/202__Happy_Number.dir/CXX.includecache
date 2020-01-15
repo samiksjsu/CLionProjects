@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/202. Happy Number/isHappy.cpp
+isHappy.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/202. Happy Number/isHappy.h
+unordered_set
+-
+string
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/202. Happy Number/isHappy.h
+

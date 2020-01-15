@@ -1,0 +1,3 @@
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/cmake-build-debug/CMakeFiles/973__K_Closest_Points_to_Origin.dir
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

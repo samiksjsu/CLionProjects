@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samik/CLionProjects/leetcode Graph Problems/997. Find the Town Judge/1042. Flower Planting With No Adjacent.h
+vector
+-
+unordered_map
+-
+unordered_set
+-
+
+C:/Users/samik/CLionProjects/leetcode Graph Problems/997. Find the Town Judge/main.cpp
+iostream
+-
+vector
+-
+1042. Flower Planting With No Adjacent.h
+C:/Users/samik/CLionProjects/leetcode Graph Problems/997. Find the Town Judge/1042. Flower Planting With No Adjacent.h
+

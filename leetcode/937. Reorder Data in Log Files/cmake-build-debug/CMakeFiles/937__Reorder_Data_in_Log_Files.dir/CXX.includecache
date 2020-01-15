@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samik/CLionProjects/leetcode/937. Reorder Data in Log Files/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samik/CLionProjects/leetcode/1047. Remove All Adjacent Duplicates In String/main.cpp
+iostream
+-
+stack
+-
+algorithm
+-
+

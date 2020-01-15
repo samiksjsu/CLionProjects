@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/recursion/add.cpp
+add.h
+C:/Users/Samik Biswas/CLionProjects/recursion/add.h
+
+C:/Users/Samik Biswas/CLionProjects/recursion/add.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/412. Fizz Buzz/fizzBuzz.cpp
+fizzBuzz.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/412. Fizz Buzz/fizzBuzz.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/412. Fizz Buzz/fizzBuzz.h
+vector
+-
+string
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/412. Fizz Buzz/main.cpp
+iostream
+-
+string
+-
+

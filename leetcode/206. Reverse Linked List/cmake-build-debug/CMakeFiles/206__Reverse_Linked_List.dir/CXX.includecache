@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/206. Reverse Linked List/reverseList.cpp
+reverseList.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/206. Reverse Linked List/reverseList.h
+deque
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/206. Reverse Linked List/reverseList.h
+deque
+-
+

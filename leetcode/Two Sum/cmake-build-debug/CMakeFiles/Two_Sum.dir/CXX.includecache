@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/Two Sum/twoSum.cpp
+unordered_map
+-
+twoSum.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/Two Sum/twoSum.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/Two Sum/twoSum.h
+vector
+-
+

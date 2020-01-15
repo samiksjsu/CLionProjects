@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/DoublyLinkedList.h
+Node.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/Node.h
+iostream
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/Node.h
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/mergeSort.h
+vector
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/Node.cpp
+../headerFiles/Node.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/Node.h
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/mergeSort.cpp
+../headerFiles/mergeSort.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/mergeSort.h
+iostream
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/radixSort.cpp
+../headerFiles/DoublyLinkedList.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/DoublyLinkedList.h
+vector
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/shellSort.cpp
+vector
+-
+

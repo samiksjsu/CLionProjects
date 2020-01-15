@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/155. minStack/main.cpp
+iostream
+-
+minStack.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/155. minStack/minStack.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/155. minStack/minStack.cpp
+minStack.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/155. minStack/minStack.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/155. minStack/minStack.h
+vector
+-
+

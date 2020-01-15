@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/819. Most Common Word/main.cpp
+iostream
+-
+vector
+-
+string
+-
+mostCommonWord.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/819. Most Common Word/mostCommonWord.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/819. Most Common Word/mostCommonWord.h
+string
+-
+vector
+-
+

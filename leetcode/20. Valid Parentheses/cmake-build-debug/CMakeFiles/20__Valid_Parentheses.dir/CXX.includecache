@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/20. Valid Parentheses/isValid.cpp
+isValid.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/20. Valid Parentheses/isValid.h
+stack
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/20. Valid Parentheses/isValid.h
+string
+-
+

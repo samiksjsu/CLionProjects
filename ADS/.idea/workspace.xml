@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ADS" targetName="ADS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7425a6a-6729-472e-926c-872281e0f1c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>erase</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Q1jYF3K9oOY7zoMG69YjittEuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CPPPractice" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samik Biswas\CLionProjects\ADS" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ADS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ADS" TARGET_NAME="ADS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ADS" RUN_TARGET_NAME="ADS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7425a6a-6729-472e-926c-872281e0f1c7" name="Default Changelist" comment="" />
+      <created>1556369467260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556369467260</updated>
+      <workItem from="1556369477634" duration="2329000" />
+      <workItem from="1556453732514" duration="128000" />
+      <workItem from="1557550388955" duration="230000" />
+      <workItem from="1557550873514" duration="29266000" />
+      <workItem from="1560396567912" duration="1365000" />
+      <workItem from="1564462514682" duration="1795000" />
+      <workItem from="1566611868505" duration="5157000" />
+      <workItem from="1566765545387" duration="7251000" />
+      <workItem from="1566780627275" duration="395000" />
+      <workItem from="1566781085034" duration="25736000" />
+      <workItem from="1566875397167" duration="330000" />
+      <workItem from="1566875924727" duration="14885000" />
+      <workItem from="1566944183458" duration="324000" />
+      <workItem from="1566945047857" duration="1012000" />
+      <workItem from="1567020773254" duration="7953000" />
+      <workItem from="1567030209922" duration="9297000" />
+      <workItem from="1567098476655" duration="11572000" />
+      <workItem from="1567201440995" duration="19592000" />
+      <workItem from="1567273800212" duration="1323000" />
+      <workItem from="1567275534682" duration="2785000" />
+      <workItem from="1567309546137" duration="6328000" />
+      <workItem from="1567375833680" duration="12686000" />
+      <workItem from="1567395682861" duration="981000" />
+      <workItem from="1567406521754" duration="12965000" />
+      <workItem from="1567493332432" duration="2186000" />
+      <workItem from="1567663674986" duration="5069000" />
+      <workItem from="1568049242027" duration="69000" />
+      <workItem from="1568150989032" duration="10000" />
+      <workItem from="1568341197029" duration="48000" />
+      <workItem from="1568507765765" duration="6250000" />
+      <workItem from="1568673557523" duration="15000" />
+      <workItem from="1568944657066" duration="275000" />
+      <workItem from="1569955077458" duration="62000" />
+      <workItem from="1570143304589" duration="1539000" />
+      <workItem from="1570170626959" duration="16000" />
+      <workItem from="1571343607777" duration="2465000" />
+      <workItem from="1571361301088" duration="1059000" />
+      <workItem from="1571698244172" duration="1277000" />
+      <workItem from="1571720818483" duration="1911000" />
+      <workItem from="1571767744315" duration="235000" />
+      <workItem from="1571768007328" duration="7000" />
+      <workItem from="1571862751737" duration="5266000" />
+      <workItem from="1572042427684" duration="21000" />
+      <workItem from="1572571899597" duration="16000" />
+      <workItem from="1572939189985" duration="17000" />
+      <workItem from="1578524868609" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="169" key="FileChooserDialogImpl" timestamp="1578524935944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578524935944" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test.c</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test.c</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/189. Rotate Array/main.cpp
+iostream
+-
+rotate.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/189. Rotate Array/rotate.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/189. Rotate Array/rotate.cpp
+rotate.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/189. Rotate Array/rotate.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/189. Rotate Array/rotate.h
+vector
+-
+

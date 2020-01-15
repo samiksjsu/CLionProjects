@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samik/CLionProjects/leetcode/ADSFinalsPractice/AVLTree.h
+vector
+-
+treeNode.h
+C:/Users/samik/CLionProjects/leetcode/ADSFinalsPractice/treeNode.h
+
+C:/Users/samik/CLionProjects/leetcode/ADSFinalsPractice/main.cpp
+iostream
+-
+AVLTree.h
+C:/Users/samik/CLionProjects/leetcode/ADSFinalsPractice/AVLTree.h
+
+C:/Users/samik/CLionProjects/leetcode/ADSFinalsPractice/treeNode.h
+

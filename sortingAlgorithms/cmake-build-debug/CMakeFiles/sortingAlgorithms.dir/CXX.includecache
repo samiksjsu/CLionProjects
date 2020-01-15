@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/countSort.h
+vector
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/mergeSort.h
+vector
+-
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/main.cpp
+iostream
+-
+vector
+-
+string
+-
+sourceFiles/quickSort.cpp
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/quickSort.cpp
+headerFiles/countSort.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/countSort.h
+headerFiles/mergeSort.h
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/headerFiles/mergeSort.h
+
+C:/Users/Samik Biswas/CLionProjects/sortingAlgorithms/sourceFiles/quickSort.cpp
+vector
+-
+

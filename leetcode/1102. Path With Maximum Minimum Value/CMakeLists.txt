@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(1102__Path_With_Maximum_Minimum_Value)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1102__Path_With_Maximum_Minimum_Value main.cpp maximumMinimumPath.cpp maximumMinimumPath.h)

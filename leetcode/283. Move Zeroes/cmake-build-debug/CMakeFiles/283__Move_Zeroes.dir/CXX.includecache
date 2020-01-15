@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/283. Move Zeroes/moveZeroes.cpp
+moveZeroes.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/283. Move Zeroes/moveZeroes.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/283. Move Zeroes/moveZeroes.h
+vector
+-
+

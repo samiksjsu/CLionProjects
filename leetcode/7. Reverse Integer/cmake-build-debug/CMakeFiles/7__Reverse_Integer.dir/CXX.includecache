@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/7. Reverse Integer/main.cpp
+iostream
+-
+reverse.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/7. Reverse Integer/reverse.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/7. Reverse Integer/reverse.h
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/hashing/chaining.h
+vector
+-
+node.h
+C:/Users/Samik Biswas/CLionProjects/hashing/node.h
+
+C:/Users/Samik Biswas/CLionProjects/hashing/linearProbing.h
+vector
+-
+
+C:/Users/Samik Biswas/CLionProjects/hashing/main.cpp
+iostream
+-
+string
+-
+vector
+-
+list
+-
+linearProbing.h
+C:/Users/Samik Biswas/CLionProjects/hashing/linearProbing.h
+chaining.h
+C:/Users/Samik Biswas/CLionProjects/hashing/chaining.h
+
+C:/Users/Samik Biswas/CLionProjects/hashing/node.h
+

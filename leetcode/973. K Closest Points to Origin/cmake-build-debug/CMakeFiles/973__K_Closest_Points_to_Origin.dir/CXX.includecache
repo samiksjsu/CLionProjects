@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/kClosest.cpp
+kClosest.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/kClosest.h
+cmath
+-
+map
+-
+set
+-
+algorithm
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/973. K Closest Points to Origin/kClosest.h
+vector
+-
+

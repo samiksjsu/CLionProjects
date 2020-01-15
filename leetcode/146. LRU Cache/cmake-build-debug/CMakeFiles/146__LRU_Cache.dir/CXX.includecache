@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/146. LRU Cache/LRUCache.cpp
+LRUCache.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/146. LRU Cache/LRUCache.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/146. LRU Cache/LRUCache.h
+unordered_map
+-
+deque
+-
+algorithm
+-
+list
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/146. LRU Cache/main.cpp
+iostream
+-
+unordered_set
+-
+LRUCache.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/146. LRU Cache/LRUCache.h
+

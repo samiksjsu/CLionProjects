@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samik/CLionProjects/leetcode/238. Product of Array Except Self/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+unordered_map
+-
+unordered_set
+-
+sstream
+-
+

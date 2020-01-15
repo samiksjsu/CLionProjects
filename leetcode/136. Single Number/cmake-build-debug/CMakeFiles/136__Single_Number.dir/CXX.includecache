@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/136. Single Number/main.cpp
+iostream
+-
+vector
+-
+singleNumber.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/136. Single Number/singleNumber.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/136. Single Number/singleNumber.cpp
+singleNumber.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/136. Single Number/singleNumber.h
+unordered_set
+-
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/136. Single Number/singleNumber.h
+vector
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/1102. Path With Maximum Minimum Value/maximumMinimumPath.cpp
+maximumMinimumPath.h
+C:/Users/Samik Biswas/CLionProjects/leetcode/1102. Path With Maximum Minimum Value/maximumMinimumPath.h
+
+C:/Users/Samik Biswas/CLionProjects/leetcode/1102. Path With Maximum Minimum Value/maximumMinimumPath.h
+vector
+-
+
